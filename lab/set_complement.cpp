@@ -40,7 +40,7 @@ int main()
         }
         if (j == num2)
         {
-            cout << arr1[i] << " ,";
+            cout << arr1[i] << " ";
         }
     }
     cout << "}";

@@ -43,7 +43,7 @@ int main()
         }
         if (flag != 1)
         {
-            cout << arr2[j] << " , ";
+            cout << arr2[j] << "  ";
         }
     }
     cout << " }";

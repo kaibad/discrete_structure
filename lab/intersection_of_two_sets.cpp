@@ -38,11 +38,11 @@ int main()
         {
             if (arr1[i] == arr2[j])
             {
-                cout << arr1[i] << ",";
+                cout << arr1[i] << "";
             }
         }
     }
-    cout << " }";
+    cout << "}";
 
     cout << "\n\n\nNAME:-KAILASH BADU\nROLL NO.:-9" << endl;
 
