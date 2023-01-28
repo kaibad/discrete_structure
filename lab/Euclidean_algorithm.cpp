@@ -18,6 +18,7 @@ int main()
     cin >> a >> b;
     cout << "\n\nGCD of " << a << " and " << b << " is: " << gcd(a, b) << endl
          << endl;
+    cout << "Name:-Kailash Badu\n\nRoll no:-09";
 
     return 0;
 }
